@@ -2,14 +2,10 @@ namespace _1._2_UserGame;
 
 internal class UserGame
 {
-    public UserGame()
-    {
-        Run();
-    }
     public static void Run()
     {
-        string? name = null;
-        string? age = null;
+        var name = "";
+        int age = 0;
         while (true)
         {
             Console.WriteLine("""
@@ -30,7 +26,8 @@ internal class UserGame
                 case "2":
                 {
                     Console.WriteLine("What is your age? ");
-                    age = Console.ReadLine();
+                    var ageInput = Console.ReadLine();
+                    age = int.Parse(ageInput);
                     break;
                 }
                 case "3":
@@ -41,7 +38,7 @@ internal class UserGame
                     break;
             }
 
-            if (!string.IsNullOrEmpty(name) && !string.IsNullOrEmpty(age))
+            if (name != "" && age != 0)
             {
                 Console.WriteLine($"Your name is {name}, you are {age} years old.");
             }

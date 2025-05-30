@@ -1,4 +1,4 @@
-namespace _1._3_IntroToNET_CastingParsingEnums;
+﻿namespace _1._1_IntroToNetV2;
 
 public class MyConsole
 {

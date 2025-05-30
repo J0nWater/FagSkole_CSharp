@@ -12,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2 UserGame", "1.2 UserGam
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 MoreIntroToNET", "1.3 MoreIntroToNET", "{F0BE8BBB-A99D-4A57-9CD7-15FD06FF7AA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3 IntroToNET_CastingParsingEnums", "1.3 IntroToNET_CastingParsingEnums\1.3 IntroToNET_CastingParsingEnums.csproj", "{3AE4718B-67CF-4841-88F7-7043AF9AFE44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3 IntroToNET_CastingParsingEnums", "1.3_IntroToNET_CastingParsingEnums\1.3_IntroToNET_CastingParsingEnums.csproj", "{3AE4718B-67CF-4841-88F7-7043AF9AFE44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

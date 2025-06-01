@@ -1,4 +1,6 @@
 ﻿
 using _1._3_CastingParsingEnums;
-
-ConvertDemo.Run();
+RandomDemo.Run();
+// OverloadDemo.Run();
+// EnumDemo.Run();
+// ConvertDemo.Run();

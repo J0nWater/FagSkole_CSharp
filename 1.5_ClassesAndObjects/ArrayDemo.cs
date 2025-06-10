@@ -10,7 +10,7 @@
         texts[0] = "Hei";
         texts[1] = "på";
         texts[2] = "deg";
-        
+
         string[] texts2 = new string[] {"Hei", "på", "deg"};
         
         string[] texts3 = ["Hei", "på", "deg"];

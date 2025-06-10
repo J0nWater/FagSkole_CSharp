@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5_ClassesAndObjects", "1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5_ClassesAndObjects", "1.5_ClassesAndObjects\1.5_ClassesAndObjects.csproj", "{18D73863-F4E2-4D57-B2DB-DD26D1AF1BCE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.6_ModelleringOgTerminalShootr ", "1.6_ModelleringOgTerminalShootr ", "{2FDB984B-860E-4936-B9F0-F8DA18D59FE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
